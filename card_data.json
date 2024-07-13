@@ -1,0 +1,156 @@
+[
+    {
+        "uid": "041674DA",
+        "balance": 3339.9935,
+        "student_id": "6430301095",
+        "email": "oanchisa.n@ku.th",
+        "fullname": "Oanchisa Numnoi",
+        "points": 156,
+        "history": [
+            {
+                "amount": 100.0,
+                "datetime": "2024-03-11 15:21:02",
+                "type": "topup",
+                "service": "office"
+            },
+            {
+                "amount": 4200.0,
+                "datetime": "2024-03-11 15:22:54",
+                "type": "topup",
+                "service": "office"
+            },
+            {
+                "amount": 100.0,
+                "datetime": "2024-03-11 15:22:54",
+                "type": "pay",
+                "service": "store1",
+                "point": 4
+            },
+            {
+                "amount": 108.7013,
+                "datetime": "2024-03-11 17:43:49",
+                "type": "pay",
+                "service": "store1",
+                "point": 4
+            },
+            {
+                "amount": 108.7013,
+                "datetime": "2024-03-11 17:44:49",
+                "type": "pay",
+                "service": "store1",
+                "point": 4
+            },
+            {
+                "amount": 162.2013,
+                "datetime": "2024-03-11 17:45:08",
+                "type": "pay",
+                "service": "store2",
+                "point": 6
+            },
+            {
+                "amount": 700.0,
+                "datetime": "2024-03-11 21:01:08",
+                "type": "topup",
+                "service": "office"
+            },
+            {
+                "amount": 1071.7013,
+                "datetime": "2024-03-11 21:02:19",
+                "type": "pay",
+                "service": "store1",
+                "point": 10
+            },
+            {
+                "amount": 108.7013,
+                "datetime": "2024-03-11 21:02:36",
+                "type": "pay",
+                "service": "store2",
+                "point": 1
+            }
+        ]
+    },
+    {
+        "uid": "041D66DA",
+        "balance": 7374.993500000001,
+        "student_id": "6430300951",
+        "email": "supakorn.j@ku.th",
+        "fullname": "Supakorn Disapong",
+        "points": 500,
+        "history": [
+            {
+                "amount": 100.0,
+                "datetime": "2024-03-11 15:21:02",
+                "type": "topup",
+                "service": "office"
+            },
+            {
+                "amount": 4200.0,
+                "datetime": "2024-03-11 15:22:54",
+                "type": "topup",
+                "service": "office"
+            },
+            {
+                "amount": 100.0,
+                "datetime": "2024-03-11 15:22:54",
+                "type": "pay",
+                "service": "store1",
+                "point": 4
+            },
+            {
+                "amount": 4000.0,
+                "datetime": "2024-03-11 15:39:19",
+                "type": "topup",
+                "service": "office"
+            },
+            {
+                "amount": 536.7013,
+                "datetime": "2024-03-11 15:53:15",
+                "type": "pay",
+                "service": "store1",
+                "point": 25
+            },
+            {
+                "amount": 108.7013,
+                "datetime": "2024-03-11 15:56:02",
+                "type": "pay",
+                "service": "store1",
+                "point": 4
+            },
+            {
+                "amount": 162.2013,
+                "datetime": "2024-03-11 15:58:08",
+                "type": "pay",
+                "service": "store1",
+                "point": 6
+            },
+            {
+                "amount": 55.2013,
+                "datetime": "2024-03-11 19:14:09",
+                "type": "pay",
+                "service": "store1",
+                "point": 2
+            },
+            {
+                "amount": 162.2013,
+                "datetime": "2024-03-11 19:14:24",
+                "type": "pay",
+                "service": "store2",
+                "point": 6
+            },
+            {
+                "amount": 200.0,
+                "datetime": "2024-03-11 20:56:50",
+                "type": "topup",
+                "service": "office"
+            }
+        ]
+    },
+    {
+        "uid": "047FAFB2",
+        "balance": 0,
+        "student_id": "6430301010",
+        "email": "oanchisa.n@ku.th",
+        "fullname": "oanchisa numnoi",
+        "points": 500
+    }
+]

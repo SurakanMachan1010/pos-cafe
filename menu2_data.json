@@ -1,0 +1,70 @@
+{
+  "coffee_menu": [
+    {
+      "name": "Milk Green Tea",
+      "price": 50
+    },
+    {
+      "name": "Cocoa",
+      "price": 50
+    },
+    {
+      "name": "Iced Tea",
+      "price": 50
+    },
+    {
+      "name": "Honey Lemon Tea",
+      "price": 50
+    },
+    {
+      "name": "Italian Lemon Soda",
+      "price": 50
+    },
+    {
+      "name": "Lemon Tea",
+      "price": 50
+    },
+    {
+      "name": "Premium Mocktail",
+      "price": 50
+    },
+    {
+      "name": "Creative Smoothie",
+      "price": 50
+    }
+  ],
+  "cake_menu": [
+    {
+      "name": "Curry Pork Cutlet Rice",
+      "price": 50
+    },
+    {
+      "name": "Egg Wrapped Rice",
+      "price": 50
+    },
+    {
+      "name": "Thick Egg Sauce Pork Tonkatsu Rice",
+      "price": 50
+    },
+    {
+      "name": "Baked Shrimp Creamy Rice",
+      "price": 50
+    },
+    {
+      "name": "Fried Pork Rice",
+      "price": 50
+    },
+    {
+      "name": "Pan-Fried Egg",
+      "price": 50
+    },
+    {
+      "name": "Mini Ham Cheese Pizza",
+      "price": 50
+    },
+    {
+      "name": "Okonomiyaki",
+      "price": 50
+    }
+  ]
+}

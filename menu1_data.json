@@ -1,0 +1,70 @@
+{
+  "coffee_menu": [
+    {
+      "name": "Latte",
+      "price": 50
+    },
+    {
+      "name": "Espresso",
+      "price": 50
+    },
+    {
+      "name": "Iced Latte",
+      "price": 50
+    },
+    {
+      "name": "Valley Coffee",
+      "price": 50
+    },
+    {
+      "name": "Cappuccino",
+      "price": 50
+    },
+    {
+      "name": "African Coffee",
+      "price": 50
+    },
+    {
+      "name": "American Coffee",
+      "price": 50
+    },
+    {
+      "name": "Iced Cappuccino",
+      "price": 50
+    }
+  ],
+  "cake_menu": [
+    {
+      "name": "Coffee Cake",
+      "price": 50
+    },
+    {
+      "name": "Red Velvet Cake",
+      "price": 50
+    },
+    {
+      "name": "Black Forest Cake",
+      "price": 50
+    },
+    {
+      "name": "Boston Cream Cake",
+      "price": 50
+    },
+    {
+      "name": "Lagos Chocolate Cake",
+      "price": 50
+    },
+    {
+      "name": "Kilburn Chocolate Cake",
+      "price": 50
+    },
+    {
+      "name": "Carton Hill Cake",
+      "price": 50
+    },
+    {
+      "name": "Queen Park Cake",
+      "price": 50
+    }
+  ]
+}
